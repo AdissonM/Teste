@@ -11,7 +11,8 @@ function App() {
  <div className="container">
   <div className="row">
     <div className="col teste">
-      teste
+      TESTE
+    <input className="rock" type="checkbox"> Adiddas</input>
     </div>
     <div className="col"></div>
   </div>
